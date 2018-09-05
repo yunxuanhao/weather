@@ -1,0 +1,21 @@
+{
+    "name": "ejpill/weather",
+    "description": "A weather SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ejpill",
+            "email": "yunxuanhao@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "phpunit/phpunit": "^7.3",
+        "mockery/mockery": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ejpill\\Weather\\": "src"
+        }
+    }
+}

@@ -3,7 +3,7 @@
 <p align="center"> A weather SDK，基于高德天气api</p>
 
 [![Build Status](https://travis-ci.org/yunxuanhao/weather.svg?branch=master)](https://travis-ci.org/yunxuanhao/weather)
-![StyleCI build status](https://github.styleci.io/repos/147484191/shield) 
+[![StyleCI build status](https://github.styleci.io/repos/147484191/shield)](https://github.styleci.io/repos/147484191)
 
 
 ## Installing

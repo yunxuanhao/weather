@@ -3,6 +3,5 @@
 /coverage
 sftp-config.json
 composer.lock
-.idea
 .subsplit
 .php_cs.cache

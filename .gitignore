@@ -1,6 +1,7 @@
 *.DS_Store
 /vendor
 /coverage
+.idea
 sftp-config.json
 composer.lock
 .subsplit

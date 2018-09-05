@@ -1,8 +1,8 @@
 <?php
 $header = <<<EOF
-This file is part of the ejpill/weather.
+This file is part of the Yunxuanhao/weather.
 
-(c) ejpill <yunxuanhao@gmail.com>
+(c) Yunxuanhao <yunxuanhao@gmail.com>
 
 This source file is subject to the MIT license that is bundled.
 EOF;

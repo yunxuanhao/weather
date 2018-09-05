@@ -5,7 +5,7 @@
  * Time: 下午2:57
  */
 
-namespace Ejpill\Weather\Exception;
+namespace Yunxuanhao\Weather\Exception;
 
 
 class Exception extends \Exception

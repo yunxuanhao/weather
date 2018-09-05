@@ -5,7 +5,7 @@
  * Time: 下午2:58
  */
 
-namespace Ejpill\Weather\Exception;
+namespace Yunxuanhao\Weather\Exception;
 
 
 class InvalidArgumentException extends Exception

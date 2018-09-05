@@ -5,11 +5,11 @@
  * Time: 下午2:52
  */
 
-namespace Ejpill\Weather;
+namespace Yunxuanhao\Weather;
 
 
-use Ejpill\Weather\Exception\HttpException;
-use Ejpill\Weather\Exception\InvalidArgumentException;
+use Yunxuanhao\Weather\Exception\HttpException;
+use Yunxuanhao\Weather\Exception\InvalidArgumentException;
 use GuzzleHttp\Client;
 
 class Weather
